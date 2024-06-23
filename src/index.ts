@@ -1,4 +1,4 @@
-import App from "src/App.svelte";
+import App from "./App.svelte";
 import "./styles/Tailwind.css";
 
 const app = new App({ target: document.body });
